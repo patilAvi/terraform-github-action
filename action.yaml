@@ -1,0 +1,6 @@
+name: 'Install with Terraform'
+author: 'Avinash Patil'
+description: 'Terraform installation'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
